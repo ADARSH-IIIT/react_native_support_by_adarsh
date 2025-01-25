@@ -1,0 +1,12 @@
+
+
+statusbarcomponent to manage color etc , top part of phone notch part 
+
+
+view ==> general purpose container 
+
+
+safeareaview ==> most used for ios dev ==> saves screncontnetn tto overlap with notch part 
+
+
+image background component ==> best component whre we can set any image as bg , also add blur effect in it ==>   as well as we can define and insert multiple components itn it == >a best container that suppot bg image with blue effect 
